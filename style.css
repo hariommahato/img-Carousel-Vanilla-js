@@ -1,0 +1,22 @@
+.caraousel{
+   
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.caraousel img{
+    width: 40rem;
+}
+.box{
+    width: 20rem;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box i{
+    font-size: 8rem;
+    color: rebeccapurple;
+}
